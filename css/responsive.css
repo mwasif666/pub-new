@@ -1,0 +1,1469 @@
+/* MEDIA QUERIES */
+
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {}
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+    .ab-a .active a::before {
+        width: 115px !important;
+        left: -33px !important;
+        height: 86px;
+    }
+    .discipline-list li a {
+    
+        font-size: 18px;
+     
+    }
+    .discipline-area h6 {
+        font-size: 22px;
+       
+    }
+    .discipline-list li a img {
+        width: 29px;
+        height: 37px;
+    }
+    .who_img_2 {
+
+        height: 150px;
+        
+        margin-top: -60px;
+        margin-left: 136px;
+    }
+    .about-img-2 .who_img_2 {
+        margin-left: 150px;
+    }
+    .news-letter-form .submit {
+      
+        transform: translate(0px, -63%);
+     
+    }
+
+    .navigation-list .active a::before {
+
+        width: 140px;
+        height: 88px;
+        left: -28px;
+        top: -33px;
+
+    }
+
+    .world-best {
+        justify-content: space-between;
+        gap: 2rem;
+    }
+
+    .contact-bg {
+        padding: 0 40px;
+    }
+
+    .world-best-left {
+        padding-left: 1rem;
+    }
+
+    .footer-links h4 {
+
+        font-size: 22px;
+    }
+
+    .bottom-row {
+
+        margin-left: 5px;
+    }
+
+
+    .main-title h4 {
+        font-size: 34px;
+
+    }
+
+    .services-imges-content:hover .ser-content p {
+        height: 120px;
+    }
+
+    .bottom-row .navigation-list li a {
+
+        margin-right: 1rem;
+
+        font-size: 16px;
+
+    }
+
+    .content h2 span {
+
+        font-size: 37px;
+    }
+
+    .content h2 {
+        font-size: 40px;
+    }
+
+    .main-banner-img img {
+        width: 770px;
+        overflow: hidden;
+        margin-bottom: -49px;
+    }
+
+    .service-box-items {
+
+        margin-right: 0;
+    }
+
+    .content h4 {
+        font-size: 35px;
+        font-weight: 600;
+    }
+
+    .about-img-content {
+        top: 1rem;
+        padding: 1.5rem 3rem;
+
+    }
+
+    .about-us::after {
+        bottom: -32%;
+
+    }
+
+    .about-us:before {
+
+        bottom: -32%;
+    }
+
+    section.our-journal:before {
+
+        height: 670px;
+
+    }
+
+    .services-boxs {
+        margin-right: 0;
+    }
+
+    .services-imges-content {
+        left: 10px;
+    }
+
+    .govity-sec {
+        padding: 6rem 0rem 2rem 2rem;
+        position: relative;
+    }
+
+    .govt-items {
+        column-count: 5;
+        gap: 1rem;
+        margin: 2rem 2rem 0rem;
+    }
+
+    .govity-img:before {
+        background-image: url(../images/service-1.png);
+        width: 440px;
+        height: 580px;
+
+    }
+
+    .govity-box {
+
+        z-index: 23;
+    }
+
+    section.services-sec:after {
+        width: 202px;
+        bottom: 6%;
+
+    }
+
+    .resourse-img {
+        display: flex;
+        gap: 10px;
+        justify-content: unset;
+    }
+
+    .resourse-img img {
+        width: 240px;
+
+    }
+
+    .acces .email-sec li p {
+
+        font-size: 12px;
+    }
+
+    .acces .email-sec li h4 {
+
+        font-size: 20px;
+
+    }
+
+    .counter-items {
+        display: unset;
+        color: #fff;
+        text-align: center;
+    }
+
+    .pailty-img .policy-tie {
+        font-size: 32px;
+        top: 16px;
+        left: 15px;
+
+    }
+
+    section.our-process:after {
+
+        width: 170px;
+        height: 185px;
+
+    }
+
+    .paily-content {
+        top: 16px;
+        padding: 42px 50px;
+
+        left: -24px;
+    }
+
+    .paily-content h4 {
+        font-size: 17px;
+    }
+
+    .pailty-icons i {
+
+        font-size: 40px;
+        width: 60px;
+        height: 60px;
+        line-height: 50px;
+
+    }
+
+    section.our-process:before {
+
+        width: 350px;
+        height: 309px;
+
+    }
+
+    .paily-content p {
+        text-align: center;
+        font-size: 11px;
+    }
+
+    .our-journal-box img {
+        width: 100%;
+    }
+
+    .our-journal-text {
+
+        padding: 1rem 2rem;
+    }
+
+    .our-journal-text h4 {
+        font-size: 20px;
+    }
+
+    .contact-img img {
+        margin-top: -40px;
+        margin-left: -50px;
+        width: 440px;
+        object-fit: cover;
+    }
+
+    .our-journal-content h5 {
+
+        font-size: 14px;
+
+    }
+
+    .our-journal-content span {
+
+        font-size: 15px;
+
+    }
+
+    .testimonail-box .testimonail-img img {
+        width: 130px;
+        height: 130px;
+
+    }
+
+    .testimonail-box {
+
+        margin: 0px 10px;
+
+        padding: 1rem;
+
+    }
+
+    .contat-form {
+
+        height: 773px;
+
+    }
+
+    .footer-logo h3 {
+
+        font-size: 28px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .header-logo img {
+        width: 100%;
+    }
+
+    .banner-content h1 {
+        font-size: 46px;
+
+    }
+
+    .who_img_2 {
+
+        margin-top: -20px;
+
+        margin-left: 100px;
+
+        height: 100px;
+    }
+
+    .about-img-2 .who_img_2 {
+        margin-left: 120px;
+    }
+
+    .who_we .content h5 {
+        font-size: 16px;
+    }
+
+    .who_we .content h4 {
+        font-size: 38px;
+        font-weight: 400;
+    }
+
+    .who_we .content p {
+        font-size: 14px;
+    }
+
+    section.main-banner:before {
+
+        border-right: 17rem solid #3558a457;
+
+        border-top: 48rem solid transparent;
+
+        top: 36px;
+    }
+
+    .banner-bg img {
+        width: 100%;
+        height: 650px;
+    }
+
+    .testimonail-main-s {
+        padding: unset;
+    }
+
+    .header-logo {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .content h2 span {
+
+        font-size: 27px;
+    }
+
+    .content h2 {
+        font-size: 29px;
+    }
+
+    .primary-btn {
+
+        padding: 14px 30px;
+
+    }
+
+    .main-banner-img img {
+        width: 770px;
+        overflow: hidden;
+        margin-bottom: -49px;
+    }
+
+    .main-title h4 {
+        font-size: 24px;
+
+    }
+
+    .service-box-items {
+
+        margin-right: 0;
+
+        margin-bottom: 2rem;
+
+    }
+
+    .content h4 {
+        font-size: 35px;
+        font-weight: 600;
+    }
+
+    .about-img-content {
+        top: 1rem;
+        padding: 1.5rem 3rem;
+
+    }
+
+    .about-us::after {
+        bottom: -32%;
+
+    }
+
+    .about-us:before {
+
+        bottom: -32%;
+    }
+
+    .services-boxs {
+        margin-right: 0;
+    }
+
+    .services-imges-content {
+        left: 16px;
+    }
+
+    .govity-sec {
+        padding: 6rem 0rem 3rem 2rem;
+        position: relative;
+    }
+
+    .govt-items {
+        column-count: 4;
+        gap: 0rem;
+        margin: 1rem;
+    }
+
+    .govity-img:before {
+        background-image: url(../images/service-1.png);
+        width: 400px;
+        height: 490px;
+        top: 57px;
+        right: auto;
+        left: -160px;
+    }
+
+    .govity-box {
+
+        z-index: 23;
+    }
+
+    section.services-sec:after {
+        width: 142px;
+        bottom: 40px;
+    }
+
+    .resourse-img {
+        display: flex;
+        gap: 10px;
+        justify-content: unset;
+    }
+
+    .resourse-img img {
+        width: 100%;
+    }
+
+    .acces .email-sec li p {
+
+        font-size: 12px;
+
+        overflow: hidden;
+
+        display: -webkit-box;
+
+        -webkit-line-clamp: 3;
+
+        line-clamp: 2;
+
+        -webkit-box-orient: vertical;
+
+    }
+
+    .acces .email-sec li h4 {
+
+        font-size: 18px;
+
+    }
+
+    .counter-items {
+        display: unset;
+        color: #fff;
+        text-align: center;
+    }
+
+    .pailty-img .policy-tie {
+        font-size: 17px;
+        top: 16px;
+        left: 15px;
+    }
+
+    section.our-process:after {
+
+        width: 170px;
+        height: 185px;
+
+    }
+
+    .paily-content {
+        top: 48px;
+        padding: 22px 17px;
+        left: 9px;
+    }
+
+    .paily-content h4 {
+        font-size: 13px;
+    }
+
+    .pailty-icons i {
+
+        font-size: 20px;
+
+        width: 40px;
+
+        height: 40px;
+
+        line-height: 33px;
+
+    }
+
+    section.our-process:before {
+
+        width: 350px;
+        height: 309px;
+
+    }
+
+    .paily-content p {
+        text-align: center;
+        font-size: 10px;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        /* number of lines to show */
+        line-clamp: 2;
+        -webkit-box-orient: vertical;
+    }
+
+    .our-journal-box img {
+        width: 100%;
+    }
+
+    .our-journal-text {
+
+        padding: 1rem 2rem;
+    }
+
+    .our-journal-text h4 {
+        font-size: 23px;
+    }
+
+    .contact-img img {
+        margin-top: -40px;
+        margin-left: -50px;
+        width: 440px;
+        object-fit: cover;
+    }
+
+    .our-journal-content h5 {
+
+        font-size: 14px;
+
+    }
+
+    .our-journal-content span {
+
+        font-size: 15px;
+
+    }
+
+    .testimonail-box .testimonail-img img {
+        width: 130px;
+        height: 130px;
+
+    }
+
+    .testimonail-box {
+
+        margin: 0px 20px;
+
+    }
+
+    .contat-form {
+
+        height: 833px;
+    }
+
+    .footer-logo h3 {
+
+        font-size: 28px;
+    }
+
+    .service-box {
+        background-image: url(../images/ser-img.png);
+        border-radius: unset;
+        background-size: cover;
+    }
+
+    .about-content {
+        margin-left: 0;
+        margin-top: 1rem;
+    }
+
+    .services-imges-content:hover .ser-content p {
+        height: 170px;
+    }
+
+    .services-imges-content:hover .ser-icons {
+        margin-left: 100px;
+
+    }
+
+    .govt-items li {
+        margin-bottom: 1rem;
+        margin-left: 10px;
+    }
+
+    .govt-list h6 {
+        font-size: 14px;
+
+    }
+
+    .resourse-items-content {
+        padding: 0rem 2px;
+
+    }
+
+    .counter-items h4 {
+        font-weight: 600;
+        font-size: 40px;
+    }
+
+    .pailty-img img {
+        width: 12rem;
+        display: block;
+        height: auto;
+    }
+
+    .pailty-icons {
+
+        right: -8%;
+
+    }
+
+    .our-journal-box {
+
+        margin-top: 2rem;
+    }
+
+    .ser-content h5 br {
+        display: none;
+    }
+
+    .our-resources h4 {
+        font-size: 26px;
+    }
+
+    .testimonail-titl h3 {
+        font-size: 30px;
+
+    }
+
+    .email-sec li a {
+        font-size: 20px;
+
+    }
+
+    .email-sec li p {
+        font-size: 20px;
+
+    }
+
+    .contact-form p {
+
+        font-size: 15px;
+    }
+
+    .contact-img {
+        display: none;
+    }
+
+    .contact-form {
+        margin-left: 0;
+
+    }
+
+    .footer-links {
+        margin-bottom: 2rem;
+    }
+
+    .header-logo {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0rem 1rem;
+    }
+
+    .mobile-menu-social {
+        margin-left: 1rem;
+    }
+
+    .resourse-items-content h4 {
+        font-size: 15px;
+    }
+
+    .resourse-items-content p {
+        font-size: 11px;
+    }
+
+    .banner-img img {
+        width: 100%;
+        height: 350px;
+        object-fit: cover;
+        background-repeat: no-repeat;
+    }
+
+    .banner-content {
+
+        align-items: end;
+
+        top: -70px;
+    }
+    .navigation-list .active a::before{
+        display: none;
+    }
+    .medical-content-list li {
+      
+        font-size: 12px;
+    }
+    .discipline-area h6 {
+        font-size: 20px;
+     
+    }
+    .discipline-list li a img {
+        width: 29px;
+        height: 44px;
+    }
+    .medical-content p {
+        font-size: 14px;
+       
+    }
+    .reserach__content h4 {
+        font-size: 30px;
+        
+    }
+    .discipline-list li a {
+       
+        font-size: 16px;
+       
+    }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+    .header-logo img {
+        width: 70%;
+    }
+    .partner-img {
+        
+        padding: 7px 0rem;
+     
+       
+        margin: 16px auto 0px;
+    }
+    .news-letter-form .submit {
+       
+        transform: translate(0px, -65%);
+      
+    }
+    .who_img_2 {
+        margin-top: -50px;
+        margin-left: 140px;
+        height: 100px;
+    }
+    .about-img-2 .who_img_2 {
+        margin-left: -147px;
+    }
+    .partners h3, .policies h3 {
+    
+        padding: 0rem 0rem;
+    }
+    .pdy-30 {
+        padding: 1rem;
+    }
+    .main-title p {
+        margin-top: 1rem;
+        font-size: 13px;
+        text-transform: capitalize;
+    }
+    .navigation-list .active a::before {
+
+        display: none;
+
+    }
+
+    .banner-content h1 {
+        font-size: 30px;
+    }
+
+    .banner-img img {
+        width: 100%;
+        height: 380px;
+
+    }
+
+    .testimonail-main-s {
+        padding: 0rem 0rem;
+    }
+
+    .banner-bg img {
+        width: 100%;
+        height: 540px;
+    }
+
+    section.main-banner:before {
+        position: absolute;
+        content: "";
+        border-top: 92rem solid transparent;
+        border-right: 35rem solid #3558a457;
+        right: 0;
+        transform: rotateX(23deg) translateX(3px);
+        z-index: 0;
+        top: 90px;
+    }
+
+    .header-logo {
+        display: flex;
+        align-items: center;
+        gap: 5rem;
+    }
+.content h2 span {
+    display: block;
+    font-weight: 400;
+    font-size: 27px;
+}
+    .content h2 {
+        font-size: 29px;
+    }
+
+    .primary-btn {
+
+        padding: 5px 20px;
+
+        font-size: 14px;
+
+    }
+
+    .main-banner-img img {
+        display: none;
+    }
+
+    .service-box-items {
+
+        margin-right: 0;
+
+        margin-bottom: 2rem;
+
+    }
+    .who_we .content h5 {
+    font-size: 16px;
+}
+
+    .content h4 {
+        font-size: 34px !important;
+        font-weight: 600;
+    }
+
+    .about-img-content {
+        top: 1rem;
+        padding: 1rem 2rem;
+        gap: 7px;
+    }
+
+    .about-us::after {
+        bottom: -32%;
+
+    }
+
+    .about-us:before {
+
+        bottom: -32%;
+    }
+
+    .services-boxs {
+        margin-right: 0;
+    }
+
+    .services-imges-content {
+        left: 10px;
+    }
+
+    .govity-sec {
+        padding: 3rem 0rem 3rem 0rem;
+        position: relative;
+    }
+
+    .govt-items {
+        display: inline-block;
+    }
+
+    .govity-img:before {
+        display: none;
+    }
+
+    .govity-box {
+
+        z-index: 23;
+
+        text-align: end;
+
+        margin-left: 0;
+    }
+
+    section.services-sec:after {
+        width: 142px;
+        bottom: 40px;
+    }
+
+    .resourse-img {
+        display: flex;
+        gap: 10px;
+        justify-content: unset;
+    }
+
+    .resourse-img img {
+        width: 100%;
+    }
+
+    .acces .email-sec li p {
+
+        font-size: 11px;
+
+    }
+
+    .acces .email-sec li h4 {
+
+        font-size: 17px;
+
+    }
+
+    .counter-items {
+        display: block;
+        color: #fff;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .pailty-img .policy-tie {
+        font-size: 17px;
+        top: 26px;
+        left: 25px;
+    }
+
+    section.our-process:after {
+
+        width: 170px;
+
+        height: 185px;
+
+        z-index: 0;
+
+    }
+
+    .paily-content {
+        top: 50px;
+        padding: 22px 26px;
+        left: 0px;
+    }
+
+    .paily-content h4 {
+        font-size: 13px;
+    }
+
+    .pailty-icons i {
+
+        font-size: 24px;
+
+        width: 40px;
+
+        height: 40px;
+
+        line-height: 33px;
+
+    }
+
+    section.our-process:before {
+
+        width: 350px;
+        height: 309px;
+
+    }
+
+    .paily-content p {
+        text-align: center;
+        font-size: 10px;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        /* number of lines to show */
+        line-clamp: 2;
+        -webkit-box-orient: vertical;
+    }
+
+    .our-journal-box img {
+        width: 100%;
+    }
+
+    .our-journal-text {
+
+        padding: 1rem 2rem;
+    }
+
+    .our-journal-text h4 {
+        font-size: 16px;
+    }
+
+    .contact-img img {
+        margin-top: -40px;
+        margin-left: -50px;
+        width: 440px;
+        object-fit: cover;
+    }
+
+    .our-journal-content h5 {
+
+        font-size: 14px;
+
+    }
+
+    .our-journal-content span {
+
+        font-size: 15px;
+
+    }
+
+    .testimonail-box .testimonail-img img {
+        width: 130px;
+        height: 130px;
+
+    }
+
+    .testimonail-box {
+
+        margin: 0px 20px;
+
+    }
+
+    .contat-form {
+
+        height: 883px;
+    }
+
+    .footer-logo h3 {
+
+        font-size: 28px;
+    }
+
+    .service-box {
+        background-image: url(../images/ser-img.png);
+        border-radius: unset;
+        background-size: cover;
+    }
+
+    .about-content {
+        margin-left: 0;
+        margin-top: 1rem;
+    }
+
+    .services-imges-content:hover .ser-content p {
+        height: 70px;
+        font-size: 13px;
+    }
+
+    .services-imges-content:hover .ser-icons {
+        margin-left: 40px;
+    }
+
+    .govt-items li {
+        width: unset;
+    }
+
+    .govt-list h6 {
+        font-size: 14px;
+
+    }
+
+    .resourse-items-content {
+        padding: 0rem 2px;
+
+    }
+
+    .counter-items h4 {
+        font-weight: 600;
+        font-size: 30px;
+    }
+
+    .pailty-img img {
+        width: 13rem;
+        display: block;
+        height: auto;
+        z-index: 1;
+    }
+
+    .pailty-icons {
+
+        right: -8%;
+
+    }
+
+    .our-journal-box {
+
+        margin-top: 2rem;
+    }
+
+    .ser-content h5 br {
+        display: none;
+    }
+
+    .our-resources h4 {
+        font-size: 20px;
+    }
+
+    .testimonail-titl h3 {
+        font-size: 20px;
+    }
+
+    .email-sec li a {
+        font-size: 16px;
+    }
+
+    .email-sec li p {
+        font-size: 16px;
+    }
+
+    .contact-form p {
+
+font-size: 12px;
+
+}
+
+    .contact-img {
+        display: none;
+    }
+
+    .contact-form {
+        margin-left: 0;
+
+    }
+
+    .footer-links {
+        margin-bottom: 1.5rem;
+    }
+
+    .header-social {
+
+        gap: 0.4rem;
+
+        justify-content: unset;
+    }
+
+    .world-best-left h4 {
+        font-size: 13px;
+
+    }
+
+    .header-social h5 {
+        font-size: 13px;
+
+    }
+
+    .banner-bg img {
+        width: 100%;
+        height: 550px;
+    }
+
+    .content p {
+        color: #c7c7c7;
+        font-size: 14px !important;
+    }
+
+    .service-box {
+
+        padding: 1rem 3rem;
+
+    }
+
+    .main-title h4 {
+        font-size: 20px;
+    }
+
+    .ser-content h5 {
+
+font-size: 14px;
+
+}
+
+    .govt-items li {
+        margin-right: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .govity-box h4 {
+
+        font-size: 18px;
+    }
+
+    .main-title {
+
+        padding-bottom: 1rem;
+    }
+
+    .acces-list {
+        position: relative;
+        padding-left: 0;
+        border-left: unset;
+    }
+
+    .acces .email-sec li .chat-us {
+
+        width: 70px;
+        height: 70px;
+        font-size: 12px;
+
+    }
+
+    .counter-items p br {
+        display: none;
+    }
+
+    .counter-items p {
+        font-size: 14px;
+    }
+
+    .policy-title h4 {
+        font-size: 25px;
+
+    }
+
+    .policy-title h3 {
+        font-size: 23px;
+    }
+
+    section.our-process {
+        padding: 0rem 0rem;
+    }
+
+    .pailty-main-box:before {
+        display: none;
+    }
+
+    .pailty-main-box {
+        padding-top: 35px;
+
+    }
+
+    .pailty-box {
+
+        margin-top: 17px;
+
+        z-index: 1;
+
+    }
+
+    .our-journal-text p {
+        font-size: 13px;
+
+        padding: 10px 0;
+    }
+
+    .our-journal-slier-items {
+        overflow: hidden;
+        margin: 0 40px;
+    }
+
+    .contact-form-main {
+
+        height: unset;
+
+    }
+
+    .email-sec {
+
+margin-bottom: 2rem;
+
+}
+
+    .contact-form h4 {
+        font-size: 18px;
+    }
+
+    .contact-bg {
+
+        padding: 0 30px;
+
+        height: fit-content;
+
+    }
+
+    .contact-form-main {
+
+        border-radius: 133px 133px 0 0;
+
+    }
+
+    .footer {
+
+        padding: 1rem;
+    }
+
+    .footers-logo {
+        margin-bottom: 1.5rem;
+    }
+
+    .footer-logo {
+        margin-bottom: 1rem;
+    }
+
+    .footer-links p {
+        font-size: 14px;
+
+    }
+
+    .email-sec li a span {
+
+        font-size: 18px;
+
+    }
+
+    .copy-right-content p {
+
+        text-align: center;
+    }
+
+    .privacy ul {
+
+        justify-content: space-between;
+    }
+
+    .our-resoure-img {
+        margin-top: 2rem;
+    }
+
+    .govt-list {
+        padding: 10px 20px;
+
+        width: 110px;
+    }
+    .medical-content-list li {
+      
+        font-size: 12px;
+    }
+    .discipline-area h6 {
+        font-size: 20px;
+     
+    }
+    .discipline-list li a img {
+        width: 44px;
+        height: 44px;
+     
+    }
+    .medical-content p {
+        font-size: 14px;
+       
+    }
+    .reserach__content h4 {
+        font-size: 30px;
+        
+    }
+
+}
+
+@media only screen and (min-width: 100px) and (max-width: 375px) {
+    .govt-list {
+        padding: 10px 10px;
+
+    }
+
+
+    section.main-banner:before {
+        position: absolute;
+        content: "";
+        border-top: 63rem solid transparent;
+        border-right: 21rem solid #3558a457;
+        right: 0;
+        transform: rotateX(40deg) translateX(-1px);
+        z-index: 0;
+        top: 70px;
+    }
+
+    .ser-content h5 {
+        font-size: 14px;
+    }
+
+    .content h4 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .service-box {
+        padding: 1rem 3rem;
+        background: var(--c1);
+    }
+
+    .main-title h4 {
+        font-size: 20px;
+    }
+
+    .service-box-items {
+
+        margin-bottom: 1rem;
+    }
+
+    .pailty-img img {
+        width: 11.5rem;
+        display: block;
+        height: auto;
+        z-index: 1;
+    }
+
+    .our-journal-text p {
+        font-size: 10px;
+        padding: 10px 0;
+    }
+
+    .our-journal-text h4 {
+        font-size: 15px;
+    }
+
+    .testimonail-titl h3 {
+        font-size: 18px;
+    }
+
+    .contact-form h4 {
+        font-size: 22px;
+    }
+
+    .service-content {
+
+        font-size: 12px;
+    }
+
+    .paily-content {
+        top: 38px;
+        padding: 22px 26px;
+        left: 0px;
+    }
+
+    .testimonail-main-s {
+        padding: 0rem 0rem;
+    }
+
+    .ab-content {
+        font-size: 12px;
+
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 300px) {}
